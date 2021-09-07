@@ -1,0 +1,2 @@
+(self.webpackChunkwebpack_demo=self.webpackChunkwebpack_demo||[]).push([[54],{2223:function(e,n,u){"use strict";function c(){window.alert(123)}u.r(n),u.d(n,{default:function(){return c}})}}]);
+//# sourceMappingURL=tip-aed5577c-chunk.js.map
