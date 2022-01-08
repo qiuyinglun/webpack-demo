@@ -19,6 +19,6 @@ function greeter(person: Person) {
   return "Hello, " + person.firstName + " " + person.lastName;
 }
 
-let user = new User("T", "S");
+let user = new User("ts", "learning");
 console.log("==============================ts==============================");
 console.log(greeter(user));
