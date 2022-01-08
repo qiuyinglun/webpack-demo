@@ -93,6 +93,10 @@ module.exports = {
                     'sass-loader'
                 ]
             },
+            {
+              test: /\.tsx?$/,
+              use: 'ts-loader',
+            }
         ]
     },
     plugins: [

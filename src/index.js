@@ -7,6 +7,7 @@ import './scss/index.scss';
 import './js/request.js';
 import './js/hot.hmr.js';
 import './js/babel.es6.js';
+import './ts/helloworld.ts';
 
 const app = document.getElementById('app');
 app.appendChild(new Header());
